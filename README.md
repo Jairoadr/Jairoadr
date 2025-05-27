@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jairo Duran</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
 👨‍💻 Sobre mí
 
 ¡Hola! Soy estudiante de décimo semestre del programa de Ingeniería de Sistemas en la Universidad Francisco de Paula Santander. Me apasiona el desarrollo de software y las tecnologías web, y he enfocado mi formación en crear soluciones tecnológicas que optimicen procesos y generen un impacto positivo en distintos entornos.
