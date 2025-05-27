@@ -14,6 +14,6 @@
 
 
   <h3>📊 My GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jairoadr&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=Jairoadr&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jairoadr&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=jairoadr&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 
